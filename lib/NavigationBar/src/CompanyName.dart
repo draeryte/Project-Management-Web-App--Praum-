@@ -10,7 +10,7 @@ class CompanyName extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Text(
-              'P',
+              'A',
               style: TextStyle(
                 fontWeight: FontWeight.w700,
                 color: Colors.white,
@@ -18,7 +18,7 @@ class CompanyName extends StatelessWidget {
               ),
             ),
             Text(
-              'raum',
+              'gentSeer',
               style: TextStyle(
                 fontWeight: FontWeight.w300,
                 color: Colors.white70,
